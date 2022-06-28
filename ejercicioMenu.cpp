@@ -1,3 +1,4 @@
+//Miguel Angel Garcia Romero
 #include<iostream>
 #include<conio.h>
 
