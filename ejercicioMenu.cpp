@@ -1,11 +1,12 @@
 //Miguel Angel Garcia Romero
+//Hernandez Guzman Zuriel Jaffid
 #include<iostream>
 #include<conio.h>
 
 using namespace std;
 
 main(){
-	
+	cout<<"Insertando comentario al archivo del repositorio"<<endl;
 	int cont=1;
 	int opc,i,x,suma;
 	//char opc;
